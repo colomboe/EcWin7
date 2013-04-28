@@ -1,0 +1,5 @@
+1.0.2
+	Bugfix that makes the applications behave correctly also under older Windows version (XP, Vista, ...)
+
+1.0.1
+	Added defines to make compilation under other platforms than Windows successful.
